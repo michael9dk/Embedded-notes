@@ -1,6 +1,6 @@
 # This changes Tab indents to 4. Braces on next line.
 #
-# Place this files names .clang-format in ~/.arduino15/
+# Place this files named .clang-format in ~/.arduino15/
 
 # Inspired by https://forum.arduino.cc/t/ide-2-03-how-to-automatically-put-a-starting-brace-on-the-next-line/1074939/2
 # Originals ource: https://github.com/arduino/tooling-project-assets/tree/main/other/clang-format-configuration
